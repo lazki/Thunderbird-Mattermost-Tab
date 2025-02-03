@@ -9,7 +9,7 @@
   "name": "Mattermost Tab",
   "description": "__MSG_extensionDescription__",
   "author": "[Martin Genet]",
-  "homepage_url": "https://github.com/mgenet/Thunderbird-Mattermost-Tab",
+  "homepage_url": "https://github.com/mgenet/Thunderbird-Mattermost-INRIA-Tab",
   "version": "0.1",
   "default_locale": "en",
   "icons": {
